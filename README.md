@@ -1,6 +1,6 @@
 # Python NumPy Step-by-Step
 
-This repository contains step-by-step Python scripts for learning and practicing NumPy — a fundamental package for numerical computation in Python.
+This repository contains step-by-step Python scripts for learning and practicing NumPy — a fundamental package for numerical computation in Python, which i have done during my Python NumPy journey.
 
 Each file in this repo focuses on a specific concept, explained through simple and beginner-friendly examples.
 
@@ -98,3 +98,14 @@ The goal of this project is to build a solid understanding of NumPy, which is es
 1. Clone the repository:
    ```bash
    git clone https://github.com/ishwarrverma/Python-NumPy-Step-by-Step.git
+   
+----------------
+
+## 👤 About Me
+
+Hi! I'm **Ishwar**, a B.Tech student and aspiring Product/ Business Analyst 
+I’m passionate about solving business problems using data-driven insights and visual storytelling.  
+This project is part of my learning journey toward a career in product and business analytics.
+
+🔗 [Connect with me on LinkedIn](#) *(www.linkedin.com/in/ishwar-verrma)*
+
