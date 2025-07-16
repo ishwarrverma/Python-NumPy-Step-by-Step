@@ -1,0 +1,46 @@
+Indexing - In this we can pick only single element in array, we need position number(with +ve and -ve indexing, 0 include)
+                .
+              1 2 3 4 5 
+     Syntex-     
+           array[index] #1d array
+            array[ray,column] #2d array
+
+Slicing - In this we can pick multiple elements. Extract subset of array from an parent array
+                 . .
+             [1 [2 3] 4 5]
+        
+     Syntex-
+            array[start : stop : step]
+
+Fancy Indexing - Selecting multiple element at once when we have to sekect non sequential element 
+                .    .
+              [1 2 3 4 5]
+     Syntex- 
+            array[indexing numbers like [0,1,5]]
+
+Filtering - We use boolean masking for filtering on a certain condition.
+        
+     Syntex- 
+            array[array>25]
+
+Reshaping and Manipulation Arrays - 
+Reshaping - Change dimensions of array without modify the data
+             1d->2d
+             2d->3d
+     Syntex -
+            arr.reshape()
+            reshape (rows,column) #specify new shape if dimensions match
+
+     #reshape never create copy, it returns a view
+
+Flattening Array - It converts multidimensional array into 1d array
+
+.ravel() -> It returns a view (origin array)
+.flatten() -> It returns a copy
+
+
+
+
+
+
+                
