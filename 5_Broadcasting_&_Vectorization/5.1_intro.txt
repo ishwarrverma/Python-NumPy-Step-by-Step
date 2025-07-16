@@ -1,0 +1,24 @@
+ Broadcasting -> It allows us to perform arithmetic/ mathematical operations on arrays of different
+                 shapes without reshaping them
+
+-> It automatically work for different shapes or array
+
+How NumPy handle arrays of different shapes ->
+
+     Rules                                         eg.
+
+                                              arr1     arr2
+1.  Matching dimensions                     [1,2,3] + [4,5,6]
+                                               = [5,7,9]
+
+2.  Expanding single element                 [1,2,3] + 10
+                                             = [11,12,13]
+
+3.  Incompatible shapes                      [1,2,3] + [1,2]
+                                                _        _
+                                                3        2
+                                         Error - shapes are not matched 
+
+Uses of Broadcasting Vectorization ->
+
+Uses in AI and Deep Learning for calculating billions of numbers in seconds. 
