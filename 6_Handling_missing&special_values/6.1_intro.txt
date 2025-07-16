@@ -1,0 +1,16 @@
+Missing & Incorrect Values
+eg1 - 
+
+First Name -> Filled 
+Middle Name -> Filled 
+Last Name -> Forget to Fill
+
+eg2 - 
+
+Mathematical Error Like Divide by 0 = infinity, Which is an Error
+
+ Built-in Function 
+ 
+ 1. np.isnan()  ->  Detect Missing Values 
+ 2. np.nan_to_num()  -> Replacing Missing Value with a Value 
+ 3. np.isinf() -> Detect Infinite Values
