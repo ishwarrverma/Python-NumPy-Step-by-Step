@@ -1,0 +1,10 @@
+1. How to check shape, size, type of an Array?
+.shape -> get total numbers of rows and coulumns 
+.size -> get total numbers of elements in Array
+.ndim -> get total number of dimensions (1d array, 2d array or 3d array)
+.dtype -> get data type of elements in array (int, float, str)
+
+2. How to change data type's type
+ .astype(new_type) -> age = '100' (str) 
+                      age =  100  (int)
+
